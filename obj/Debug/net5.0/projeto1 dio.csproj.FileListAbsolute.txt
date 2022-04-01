@@ -1,0 +1,16 @@
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.exe
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.deps.json
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.runtimeconfig.json
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.runtimeconfig.dev.json
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.dll
+C:\Users\projeto1 dio\bin\Debug\net5.0\ref\projeto1 dio.dll
+C:\Users\projeto1 dio\bin\Debug\net5.0\projeto1 dio.pdb
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.csprojAssemblyReference.cache
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.AssemblyInfoInputs.cache
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.AssemblyInfo.cs
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.csproj.CoreCompileInputs.cache
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.dll
+C:\Users\projeto1 dio\obj\Debug\net5.0\ref\projeto1 dio.dll
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.pdb
+C:\Users\projeto1 dio\obj\Debug\net5.0\projeto1 dio.genruntimeconfig.cache
